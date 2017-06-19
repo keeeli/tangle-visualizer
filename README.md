@@ -1,8 +1,7 @@
 # tangle-visualizer
 A live graph visualization of the IOTA tangle.
 
-Demo of v1 at http://tangle.blox.pm. See http://iota.org for more details on the tangle. Roadmap for future releases coming soon.
-
+Demo of v1 at http://tangle.blox.pm. See http://iota.org for more details on the tangle.
 
 # Roadmap
 ## Milestone 1: Refactor and user experience
@@ -24,3 +23,6 @@ Demo of v1 at http://tangle.blox.pm. See http://iota.org for more details on the
 * Load some historical data when the visualizer is initiated to avoid free floating subtangles
 * Load more historical data if the user pans down below the current data
 * This part will likely require a node pruning/caching system to lower resource demands
+
+# I'm taking suggestions
+If you've got a feature request or bug report, please use the issue tracker. Even if the feature is complicated and/or far in the future, components can be designed with it in mind.
