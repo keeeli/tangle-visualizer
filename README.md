@@ -7,7 +7,7 @@ Demo of v1 at http://tangle.blox.pm. See http://iota.org for more details on the
 # Roadmap
 ## Milestone 1: Refactor and user experience
 * Refactor and organize - Current code has references going in odd directions and will be very hard to maintain
-* Build groundwork for UI - Current UI does not have any particular design behind them, will enable different menu for mobile and support the user-defined settings
+* Build groundwork for UI - Current UI does not have any particular design behind it since it's very small. Creating a better UI groundwork will enable different menu for mobile and support the user-defined settings in upcoming releases
 * Full mobile support
 * Fix bugs related to node spawning
 * Fix visual bugs related to window size
